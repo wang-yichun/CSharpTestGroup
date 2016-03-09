@@ -21,6 +21,8 @@ namespace Algorithm_BackPack
 				Console.WriteLine (itotal);
 				real_total_value += itotal;
 			}
+
+			Console.WriteLine ("real_total_value = " + real_total_value);
 		}
 
 		public static List<int> CalcCount (int total_value, List<int> frag_value_list)
@@ -43,7 +45,7 @@ namespace Algorithm_BackPack
 					}
 				}
 
-				if (remain_value > frag_value_list [frag_idx]) {
+				if (remain_value >= frag_value_list [frag_idx]) {
 					remain_value -= frag_value_list [frag_idx];
 					idx_count_list.Add (frag_idx);
 				} else {
