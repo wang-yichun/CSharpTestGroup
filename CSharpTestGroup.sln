@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "Regul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonsoftJson", "NewtonsoftJson\NewtonsoftJson.csproj", "{42C6B7DE-0ABF-4ECF-9B24-E39614DA204F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx", "UniRx\UniRx.csproj", "{6BB1F0EE-20B3-486E-B496-50AD01FEC18B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -29,6 +31,10 @@ Global
 		{5CC34FFC-C2F0-41D2-8845-57B75C0349E9}.Debug|x86.Build.0 = Debug|x86
 		{5CC34FFC-C2F0-41D2-8845-57B75C0349E9}.Release|x86.ActiveCfg = Release|x86
 		{5CC34FFC-C2F0-41D2-8845-57B75C0349E9}.Release|x86.Build.0 = Release|x86
+		{6BB1F0EE-20B3-486E-B496-50AD01FEC18B}.Debug|x86.ActiveCfg = Debug|x86
+		{6BB1F0EE-20B3-486E-B496-50AD01FEC18B}.Debug|x86.Build.0 = Debug|x86
+		{6BB1F0EE-20B3-486E-B496-50AD01FEC18B}.Release|x86.ActiveCfg = Release|x86
+		{6BB1F0EE-20B3-486E-B496-50AD01FEC18B}.Release|x86.Build.0 = Release|x86
 		{BD524BF8-EEC5-42A0-84D3-F1D13B7127FD}.Debug|x86.ActiveCfg = Debug|x86
 		{BD524BF8-EEC5-42A0-84D3-F1D13B7127FD}.Debug|x86.Build.0 = Debug|x86
 		{BD524BF8-EEC5-42A0-84D3-F1D13B7127FD}.Release|x86.ActiveCfg = Release|x86
