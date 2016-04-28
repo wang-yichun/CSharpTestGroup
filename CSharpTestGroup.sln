@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonsoftJson", "Newtonsof
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx", "UniRx\UniRx.csproj", "{6BB1F0EE-20B3-486E-B496-50AD01FEC18B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoBuf", "ProtoBuf\ProtoBuf.csproj", "{A3263821-C4B4-4BE8-9CA1-93EE6F2ECF27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -35,6 +37,10 @@ Global
 		{6BB1F0EE-20B3-486E-B496-50AD01FEC18B}.Debug|x86.Build.0 = Debug|x86
 		{6BB1F0EE-20B3-486E-B496-50AD01FEC18B}.Release|x86.ActiveCfg = Release|x86
 		{6BB1F0EE-20B3-486E-B496-50AD01FEC18B}.Release|x86.Build.0 = Release|x86
+		{A3263821-C4B4-4BE8-9CA1-93EE6F2ECF27}.Debug|x86.ActiveCfg = Debug|x86
+		{A3263821-C4B4-4BE8-9CA1-93EE6F2ECF27}.Debug|x86.Build.0 = Debug|x86
+		{A3263821-C4B4-4BE8-9CA1-93EE6F2ECF27}.Release|x86.ActiveCfg = Release|x86
+		{A3263821-C4B4-4BE8-9CA1-93EE6F2ECF27}.Release|x86.Build.0 = Release|x86
 		{BD524BF8-EEC5-42A0-84D3-F1D13B7127FD}.Debug|x86.ActiveCfg = Debug|x86
 		{BD524BF8-EEC5-42A0-84D3-F1D13B7127FD}.Debug|x86.Build.0 = Debug|x86
 		{BD524BF8-EEC5-42A0-84D3-F1D13B7127FD}.Release|x86.ActiveCfg = Release|x86
